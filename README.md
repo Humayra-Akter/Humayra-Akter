@@ -1,3 +1,4 @@
+![logo](https://github.com/Humayra-Akter/Humayra-Akter/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Humayra Akter</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
